@@ -49,7 +49,7 @@ export default function Home() {
             Capstone Project Idea{" "}
             <span className="text-[#0466c8]">Generator</span>
           </div>
-          <div className="mt-2 text-gray-500 font-bold text-md md:text-lg">
+          <div className="mt-2 px-4 text-gray-500 font-bold text-md md:text-lg">
             Struggling for Ideas? Let’s Find Your Perfect Capstone!
           </div>
         </motion.div>
